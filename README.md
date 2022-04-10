@@ -1,4 +1,4 @@
-# st - Simple Terminal
+# st - Simple Terminal (Deprecated)
 
 A personal configuration. As simple as the terminal itself. 
 
